@@ -12,3 +12,10 @@ Lex's Law, devised and implemented originally in [year], is a tool meant to
 
 #Government Points
 Members of the house's student government are 'salaried' in the sense that, they,too, in addition to whatever points they may receive vis-a-vis the above qualifiers, are awarded additional points each semester that they successfully serve a term. The exact provisions are as follows:
+
+#
+We want to take all of the unique elements from a residents kerberos list, meaning that if we join rosters, residents won't appear more than once if they live in Maseeh across multiple semesters. 
+We also want to be able to locate residents if someone claims they are missing (hence received no residency points), and determine easily from which list they were missing so that we can identify the root cause. Often, this might be a failure by Housing and Residential Services (HRS) to continually update resident rosters if/when people move in late.
+
+#
+Instructions on how to process xlsx/csv files for proper use:
