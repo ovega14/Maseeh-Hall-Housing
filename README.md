@@ -10,7 +10,7 @@ The most passive and trivial way to earn housing points in Maseeh is by simply l
 In Maseeh Hall, recall that rising seniors are awarded an *extra 40 housing points*. This stipulation exists consitutionally as a means to ensure that incoming Seniors have the strongest chance of being awarded single rooms (should they preference those). 
 
 **Lex's Law**
-Lex's Law, devised and implemented originally in [year], is a tool meant to prioritize seniority in a linear fashion, in congruence with the senior points provision. The law and its provisoins are as follows:
+Lex's Law, devised and implemented originally in [year], is a tool meant to prioritize seniority in a linear fashion, in congruence with the senior points provision. The law and its provisions are as follows:
 - todotodo
 - todotodo
 
