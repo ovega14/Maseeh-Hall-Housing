@@ -35,7 +35,6 @@ Members of the house's student government are 'salaried' in the sense that, they
 - Chief Justice: 30
 - Associate Justice(s): [0,20] 
 
-#
 ## The Feedback and cross-checking stage
 This section of the housing points update process is the more tedious section, given that the president, vice-president, RAC chairs, etc. can expect a few dozen emails to flood their inboxes asking about errors or housing points that may have been. However, it is this section that is possibly the most important to upholding the integrity of 
 
