@@ -9,17 +9,21 @@ I will include some pre- and post-processed spreadsheets (obviously replaced wit
 ## Laws, procedures, and rules
 
 **Residency Points**
+
 The most passive and trivial way to earn housing points in Maseeh is by simply living there. All residents who complete a semester lived in Maseeh Hall receive *20 points per semester lived*. Residents receive these points near the end of each semester for which they gain them, during which time the housing points are being calculated and updated.
 
 **Senior Points**
+
 In Maseeh Hall, recall that rising seniors are awarded an *extra 40 housing points*. This stipulation exists consitutionally as a means to ensure that incoming Seniors have the strongest chance of being awarded single rooms (should they preference those). 
 
 **Lex's Law**
+
 Lex's Law, devised and implemented originally in [year], is a tool meant to prioritize seniority in a linear fashion, in congruence with the senior points provision. The law and its provisions are as follows:
 - todotodo
 - todotodo
 
 **Government Points**
+
 Members of the house's student government are 'salaried' in the sense that, they, too, in addition to whatever points they may receive vis-a-vis the above qualifiers, are awarded additional points each semester that they successfully serve a term. The exact point provisions (per semester) are enumerated below:
 - President: 40 
 - Vice-President: 40
@@ -36,12 +40,13 @@ Members of the house's student government are 'salaried' in the sense that, they
 This section of the housing points update process is the more tedious section, given that the president, vice-president, RAC chairs, etc. can expect a few dozen emails to flood their inboxes asking about errors or housing points that may have been. However, it is this section that is possibly the most important to upholding the integrity of 
 
 **Publishing the Housing Points**
+
 To Publish the housing points, upload the most updated spreadsheet for the current semester including the following information:
 - Name
 - Kerberos
 - Year
 - Points, separated by the points categories:
-  - Residency, Committee, Government, Senoir
+  - Residency | Committee | Government | Senior
 - Previous point totals (i.e. at the end of the preceding semester)
 - Current point totals (the result of the current update)
 Make sure that this spreadsheet is available to view upon following a link (shareable GDrive link, and make it view only to anyone outside of the creator(s)). Give people a period of [x] days (<-- constitutionally endowed?) and bump the message twice to all recipients.
